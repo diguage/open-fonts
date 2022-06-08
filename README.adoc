@@ -1,0 +1,13 @@
+= Open Fonts
+
+Store some very good open source fonts
+
+== CJK Fonts
+
+* https://github.com/adobe-fonts/source-han-serif[adobe-fonts/source-han-serif: Source Han Serif | 思源宋体 | 思源宋體 | 思源宋體 香港 | 源ノ明朝 | 본명조^]
+* https://github.com/adobe-fonts/source-han-sans[adobe-fonts/source-han-sans: Source Han Sans | 思源黑体 | 思源黑體 | 思源黑體 香港 | 源ノ角ゴシック | 본고딕^]
+
+== Monospaced Fonts
+
+* https://github.com/adobe-fonts/source-code-pro[adobe-fonts/source-code-pro: Monospaced font family for user interface and coding environments^]
+* https://github.com/JetBrains/JetBrainsMono[JetBrains/JetBrainsMono: JetBrains Mono – the free and open-source typeface for developers^]
