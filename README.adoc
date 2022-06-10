@@ -11,3 +11,7 @@ Store some very good open source fonts
 
 * https://github.com/adobe-fonts/source-code-pro[adobe-fonts/source-code-pro: Monospaced font family for user interface and coding environments^]
 * https://github.com/JetBrains/JetBrainsMono[JetBrains/JetBrainsMono: JetBrains Mono – the free and open-source typeface for developers^]
+
+== Emoji Fonts
+
+* https://github.com/googlefonts/noto-emoji[googlefonts/noto-emoji: Noto Emoji fonts^]
