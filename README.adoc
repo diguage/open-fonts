@@ -14,4 +14,4 @@ Store some very good open source fonts
 
 == Emoji Fonts
 
-* https://github.com/googlefonts/noto-emoji[googlefonts/noto-emoji: Noto Emoji fonts^]
+* https://github.com/googlefonts/noto-emoji[googlefonts/noto-emoji: Noto Emoji fonts^] -- download link: https://fonts.google.com/noto/specimen/Noto+Emoji[Noto Emoji - Google Fonts^]
